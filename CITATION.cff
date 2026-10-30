@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "FlexiMobileNet: nested evaluation of active and chronic MS lesion classification"
+type: software
+license: MIT
+authors:
+  - family-names: Tatli
+    given-names: Sinan
+  - family-names: Macin
+    given-names: Gulay
+  - family-names: Tasci
+    given-names: Irem
+  - family-names: Tasci
+    given-names: Burak
+  - family-names: Yildirim
+    given-names: Kubra
+  - family-names: Gun
+    given-names: Mehmet Veysel
+  - family-names: Baygin
+    given-names: Mehmet
+  - family-names: Algul
+    given-names: Fatma Ebru
+  - family-names: Dogan
+    given-names: Sengul
+  - family-names: Tuncer
+    given-names: Turker
